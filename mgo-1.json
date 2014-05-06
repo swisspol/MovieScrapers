@@ -1,0 +1,87 @@
+{
+  "rating": {
+    "source": "MPAA",
+    "reason": "For sequences of violence and action, and some language.",
+    "advisories": [],
+    "value": "PG13"
+  },
+  "genres": [{
+    "displayName": "Animation"
+  }, {
+    "displayName": "Action"
+  }, {
+    "displayName": "Adventure"
+  }, {
+    "displayName": "Childrens"
+  }, {
+    "displayName": "Family"
+  }, {
+    "displayName": "Action & Adventure"
+  }, {
+    "displayName": "Animated"
+  }],
+  "currentOffers": [{
+    "providerId": "1001",
+    "ultraviolet": false,
+    "offerId": "AMZOF9a3843a2cdd33130daa91252931e5fd9"
+  }, {
+    "providerId": "1015",
+    "ultraviolet": false,
+    "offerId": "CNWOFac8074b2c69b8827b6079eea5296bcac"
+  }, {
+    "providerId": "1001",
+    "ultraviolet": false,
+    "offerId": "AMZOFcd63851c8e6222fea8601bad088d5a03"
+  }, {
+    "providerId": "1001",
+    "ultraviolet": false,
+    "offerId": "AMZOF68f5891efcf474dcc17ae39b89a015b6"
+  }, {
+    "providerId": "1001",
+    "ultraviolet": false,
+    "offerId": "AMZOFe89bd5d37093fd48a2fd2a6f7511f330"
+  }, {
+    "providerId": "1002",
+    "ultraviolet": false,
+    "offerId": "ITSOFf8e87ea97d3dbace7cc93241eceeb9af"
+  }, {
+    "providerId": "1009",
+    "ultraviolet": false,
+    "offerId": "VDUOF92c30c6ffb833d4e1b88c1c634c8314a"
+  }, {
+    "providerId": "1001",
+    "ultraviolet": false,
+    "offerId": "AMZOF0ed2fd7988dfdcb4d9dd0952ae3f6d89"
+  }, {
+    "providerId": "1001",
+    "ultraviolet": false,
+    "offerId": "AMZOF205a9da63962622d43d7dd0c3a9af88a"
+  }],
+  "contentType": "MOVIE",
+  "description": "In Gotham City\u2019s shadows lurks a mysterious figure, a silent guardian known only as the Batman. While battling crime and an ever-growing public distrust, he faces the injustices of the night alone. During a criminal pursuit, the Batman crosses paths with the arrogant intergalactic cop, Green Lantern and the unlikely duo uncover an impending threat bigger and more deadly then anything the Earth has faced before. To have a chance to survive, it will be a race to forge an uneasy alliance of the Earth\u2019s greatest super powers including the Kryptonian alien, Superman, the Amazonian envoy, Wonder Woman and the scarlet Speedster, The Flash. Along with newcomers, Cyborg and teen super hero Shazam, this awesome assembly of the world\u2019s finest are prepared to meet evil head on and offer mankind its only hope, if they don\u2019t self-destruct first!",
+  "title": "Justice League: WAR",
+  "rental": false,
+  "mgoId": "MMV1ED82488E547C87CFD2260E8044E4D9F6",
+  "origReleaseDate": "2014",
+  "trailers": [{
+    "url": "http://mgo1-stc.medianavi.com.edgesuite.net/mgo/1E/public/SD/MMV1ED82488E547C87CFD2260E8044E4D9F6.mp4",
+    "source": "STUDIO",
+    "bitrate": 2200
+  }],
+  "hasOffers": true,
+  "provider": {
+    "origin": "STUDIO",
+    "source": "STUDIO",
+    "displayName": "WB"
+  },
+  "slugId": "justice_league_war-2014",
+  "runtime": "138 min.",
+  "shortDescription": "In Gotham City\u2019s shadows lurks a mysterious figure, a silent guardian known only as the Batman. While battling crime and an ever-growing public distrust, he faces the injustices of the night alone...",
+  "id": "MMV1ED82488E547C87CFD2260E8044E4D9F6",
+  "thumbnails": [{
+    "url": "https://img01.mgo-images.com/image/thumbnail/v2/content/MMV1ED82488E547C87CFD2260E8044E4D9F6.jpeg",
+    "width": 0,
+    "height": 0
+  }],
+  "rotten_tomatoes_id": "771371930"
+}
